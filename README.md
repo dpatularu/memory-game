@@ -5,4 +5,6 @@ A simple memory game created with React. Match similar squares to win!
 
 ### Installation
 Download the repo and run: 
-```npm install```
+```
+npm install
+```
